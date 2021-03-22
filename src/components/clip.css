@@ -1,0 +1,15 @@
+.clip {
+  margin: 10px;
+  cursor: pointer;
+}
+.details {
+  color: #7e7c7c;
+  font: bold;
+}
+.sub_details {
+  color: #7e7c7c;
+  font: bold;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}

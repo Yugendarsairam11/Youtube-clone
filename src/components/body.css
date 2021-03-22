@@ -1,0 +1,17 @@
+.body {
+  display: flex;
+  flex-direction: row;
+}
+.body_sidenav {
+  width: 20%;
+}
+.body_content {
+  width: 70%;
+  background-color: #efebeb;
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+}
+.video_list {
+  width: 30%;
+}

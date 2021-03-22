@@ -1,0 +1,29 @@
+.nav_bar {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+img {
+  height: 150px;
+  width: 200px;
+}
+.search_bar {
+  height: 20px;
+  width: 500px;
+  border-radius: 3px;
+}
+.search_icon {
+  margin-left: 2px;
+  cursor: pointer;
+  background-color: #f4f2f2;
+  height: 50px;
+  width: 500px;
+  /* width: 50px; */
+}
+.navbar_middle_part {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
